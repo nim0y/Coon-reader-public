@@ -24,6 +24,11 @@
   <img src=screenshots/Screenshot_2026-03-27-17-48-50-221_com.example.coon_reader.jpg width="24%">
   <img src=screenshots/Screenshot_2026-03-27-17-48-55-532_com.example.coon_reader.jpg width="24%">
   <img src=screenshots/Screenshot_2026-03-27-17-49-12-318_com.example.coon_reader.jpg width="24%">
+  <img src=screenshots/Screenshot_2026-03-27-22-01-14-864_com.coonstudio.coon_reader.jpg width="24%">
+  <img src=screenshots/Screenshot_2026-03-27-22-02-06-853_com.coonstudio.coon_reader.jpg width="24%">
+  <img src=screenshots/Screenshot_2026-03-27-22-02-21-957_com.coonstudio.coon_reader.jpg width="24%">
+   <img src=screenshots/Screenshot_2026-03-27-22-02-40-900_com.coonstudio.coon_reader.jpg width="24%">
+  
 </p>
 
 ---
